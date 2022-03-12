@@ -1,0 +1,165 @@
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\csc.exe
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\csc.exe.config
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\csc.rsp
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\csi.exe
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\csi.rsp
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\System.AppContext.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\System.Collections.Immutable.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\System.IO.FileSystem.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\vbc.exe
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\vbc.exe.config
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\vbc.rsp
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\VBCSCompiler.exe
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\roslyn\VBCSCompiler.exe.config
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\quanlydoanvien_1.dll.config
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\quanlydoanvien_1.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\quanlydoanvien_1.pdb
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\EntityFramework.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\EntityFramework.SqlServer.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\Microsoft.Web.Infrastructure.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\System.Web.Helpers.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\System.Web.Mvc.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\System.Web.Razor.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\System.Web.Webpages.Deployment.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\System.Web.Webpages.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\System.Web.Webpages.Razor.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\EntityFramework.xml
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\EntityFramework.SqlServer.xml
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\System.Web.Razor.xml
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\System.Web.Webpages.xml
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\System.Web.Webpages.Deployment.xml
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\System.Web.Webpages.Razor.xml
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\System.Web.Helpers.xml
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\System.Web.Mvc.xml
+D:\Lập trình ASP.NET\quanlydoanvien_1\obj\Debug\quanlydoanvien_1.csprojResolveAssemblyReference.cache
+D:\Lập trình ASP.NET\quanlydoanvien_1\obj\Debug\quanlydoanvien_1.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\obj\Debug\quanlydoanvien_1.pdb
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\Mode.dll
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\Mode.pdb
+D:\Lập trình ASP.NET\quanlydoanvien_1\bin\Mode.dll.config
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\csc.exe
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\csc.exe.config
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\csc.rsp
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\csi.exe
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\csi.rsp
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\System.AppContext.dll
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\System.Collections.Immutable.dll
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\System.IO.FileSystem.dll
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\System.Reflection.Metadata.dll
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\vbc.exe
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\vbc.exe.config
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\vbc.rsp
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\VBCSCompiler.exe
+E:\New folder (2)\quanlydoanvien_1\bin\roslyn\VBCSCompiler.exe.config
+E:\New folder (2)\quanlydoanvien_1\bin\quanlydoanvien_1.dll.config
+E:\New folder (2)\quanlydoanvien_1\bin\quanlydoanvien_1.dll
+E:\New folder (2)\quanlydoanvien_1\bin\quanlydoanvien_1.pdb
+E:\New folder (2)\quanlydoanvien_1\bin\EntityFramework.dll
+E:\New folder (2)\quanlydoanvien_1\bin\EntityFramework.SqlServer.dll
+E:\New folder (2)\quanlydoanvien_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\New folder (2)\quanlydoanvien_1\bin\Microsoft.Web.Infrastructure.dll
+E:\New folder (2)\quanlydoanvien_1\bin\Mode.dll
+E:\New folder (2)\quanlydoanvien_1\bin\System.Web.Helpers.dll
+E:\New folder (2)\quanlydoanvien_1\bin\System.Web.Mvc.dll
+E:\New folder (2)\quanlydoanvien_1\bin\System.Web.Razor.dll
+E:\New folder (2)\quanlydoanvien_1\bin\System.Web.Webpages.Deployment.dll
+E:\New folder (2)\quanlydoanvien_1\bin\System.Web.Webpages.dll
+E:\New folder (2)\quanlydoanvien_1\bin\System.Web.Webpages.Razor.dll
+E:\New folder (2)\quanlydoanvien_1\bin\Mode.pdb
+E:\New folder (2)\quanlydoanvien_1\bin\Mode.dll.config
+E:\New folder (2)\quanlydoanvien_1\bin\EntityFramework.xml
+E:\New folder (2)\quanlydoanvien_1\bin\EntityFramework.SqlServer.xml
+E:\New folder (2)\quanlydoanvien_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\New folder (2)\quanlydoanvien_1\bin\System.Web.Razor.xml
+E:\New folder (2)\quanlydoanvien_1\bin\System.Web.Webpages.xml
+E:\New folder (2)\quanlydoanvien_1\bin\System.Web.Webpages.Deployment.xml
+E:\New folder (2)\quanlydoanvien_1\bin\System.Web.Webpages.Razor.xml
+E:\New folder (2)\quanlydoanvien_1\bin\System.Web.Helpers.xml
+E:\New folder (2)\quanlydoanvien_1\bin\System.Web.Mvc.xml
+E:\New folder (2)\quanlydoanvien_1\obj\Debug\quanlydoanvien_1.csprojResolveAssemblyReference.cache
+E:\New folder (2)\quanlydoanvien_1\obj\Debug\quanlydoanvien_1.csproj.CoreCompileInputs.cache
+E:\New folder (2)\quanlydoanvien_1\obj\Debug\quanlydoanvien_1.dll
+E:\New folder (2)\quanlydoanvien_1\obj\Debug\quanlydoanvien_1.pdb
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\csc.exe
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\csc.exe.config
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\csc.rsp
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\csi.exe
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\csi.rsp
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\System.AppContext.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\vbc.exe
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\vbc.exe.config
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\vbc.rsp
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\quanlydoanvien_1.dll.config
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\quanlydoanvien_1.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\quanlydoanvien_1.pdb
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\EntityFramework.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\EntityFramework.SqlServer.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\Mode.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\System.Web.Helpers.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\System.Web.Mvc.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\System.Web.Razor.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\System.Web.Webpages.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\Mode.pdb
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\Mode.dll.config
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\EntityFramework.xml
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\EntityFramework.SqlServer.xml
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\System.Web.Razor.xml
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\System.Web.Webpages.xml
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\System.Web.Helpers.xml
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\bin\System.Web.Mvc.xml
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\obj\Debug\quanlydoanvien_1.csproj.AssemblyReference.cache
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\obj\Debug\quanlydoanvien_1.csproj.CoreCompileInputs.cache
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\obj\Debug\quanlydoanvien_1.csproj.CopyComplete
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\obj\Debug\quanlydoanvien_1.dll
+C:\Users\Duy\Downloads\New folder (23)\New folder (2)\quanlydoanvien_1\obj\Debug\quanlydoanvien_1.pdb

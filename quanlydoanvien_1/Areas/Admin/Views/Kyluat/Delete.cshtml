@@ -1,0 +1,33 @@
+﻿@model Mode.kiluat
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+
+<h2>Xóa</h2>
+
+<h3>Bạn có thực sự muốn xóa?</h3>
+<div>
+    <h4>Kỉ luật</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.htkl)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.htkl)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Hủy", "Index")
+        </div>
+    }
+</div>

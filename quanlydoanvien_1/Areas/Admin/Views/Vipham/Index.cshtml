@@ -1,0 +1,58 @@
+﻿@model List<Mode.selectALL_vipham1_Result>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+
+<h2>Vi phạm</h2>
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Vi phạm
+            </div>
+            <!-- /.panel-heading -->
+            <div class="panel-body">
+                <table width="100%" class="table table-striped table-bordered table-hover" id="dataTables-example">
+                    <thead>
+                        <tr>
+                            <th>Số biên bản</th>
+                            <th>Mã đoàn viên</th>
+                            <th>Mã kỉ luật</th>
+                            <th>Ngày kỉ luật</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr class="odd gradeX">
+                                <td>@item.sobienban</td>
+                                <td>@item.madv</td>
+                                <td>@item.makl</td>
+                                <td>@item.ngaykl</td>
+
+
+
+
+
+                                <td class="center">
+                                    @Html.ActionLink("Sửa", "Edit", new { id = item.sobienban })
+                                    @Html.ActionLink("Xóa", "Delete", new { id = item.sobienban }, new { onclick = "return confirm('ban co thuc su muon xoa " + item.sobienban + " khong');" })
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+                <!-- /.table-responsive -->
+            </div>
+            <!-- /.panel-body -->
+        </div>
+        <!-- /.panel -->
+    </div>
+    <!-- /.col-lg-12 -->
+</div>
+
+
+

@@ -1,0 +1,65 @@
+﻿@model Mode.phanloai
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+
+<h2>Xóa</h2>
+
+<h3>Bạn có thực sự muốn xóa?</h3>
+<div>
+    <h4>Phân loại</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.diem)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.diem)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.uudiem)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.uudiem)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.khuyetdiem)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.khuyetdiem)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.khenthuong)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.khenthuong)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.doanvien.hoten)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.doanvien.hoten)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Hủy", "Index")
+        </div>
+    }
+</div>

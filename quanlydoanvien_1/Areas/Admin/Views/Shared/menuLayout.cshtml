@@ -1,0 +1,123 @@
+﻿
+@{
+    Layout = null;
+}
+
+<div class="sidebar-nav navbar-collapse">
+    <ul class="nav" id="side-menu">
+        <li class="sidebar-search">
+            <div class="input-group custom-search-form">
+                <input type="text" class="form-control" placeholder="Search...">
+                <span class="input-group-btn">
+                    <button class="btn btn-default" type="button">
+                        <i class="fa fa-search"></i>
+                    </button>
+                </span>
+            </div>
+            <!-- /input-group -->
+        </li>
+        <li>
+            <a href="@Url.Action("Index","Home")"><i class="fa fa-dashboard fa-fw"></i> Trang chủ</a>
+        </li>
+        <li>
+            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Đoàn viên<span class="fa arrow"></span></a>
+            <ul class="nav nav-second-level">
+                <li>
+                    <a href="@Url.Action("Create","ThongtinDV")">Thêm mới</a>
+                </li>
+                <li>
+                    <a href="@Url.Action("Index","ThongtinDV")">Thông tin đoàn viên</a>
+                </li>
+            </ul>
+            <!-- /.nav-second-level -->
+        </li>
+        <li>
+            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Phân loại<span class="fa arrow"></span></a>
+            <ul class="nav nav-second-level">
+                <li>
+                    <a href="@Url.Action("Create","Phanloai")">Thêm mới</a>
+                </li>
+                <li>
+                    <a href="@Url.Action("Index","Phanloai")">Thông tin </a>
+                </li>
+            </ul>
+            <!-- /.nav-second-level -->
+        </li>
+        <li>
+            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Chi đoàn<span class="fa arrow"></span></a>
+            <ul class="nav nav-second-level">
+                <li>
+                    <a href="@Url.Action("Create","chidoan")">Thêm mới</a>
+                </li>
+                <li>
+                    <a href="@Url.Action("Index","chidoan")">Thông tin</a>
+                </li>
+            </ul>
+            <!-- /.nav-second-level -->
+        </li>
+        <li>
+            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Kỷ luật<span class="fa arrow"></span></a>
+            <ul class="nav nav-second-level">
+                <li>
+                    <a href="@Url.Action("Create","Kyluat")">Thêm mới</a>
+                </li>
+                <li>
+                    <a href="@Url.Action("Index","Kyluat")">Thông tin </a>
+                </li>
+            </ul>
+            <!-- /.nav-second-level -->
+        </li>
+        <li>
+            <a href="#"><i class="fa fa-bar-chart-o fa-fw"></i> Vi phạm<span class="fa arrow"></span></a>
+            <ul class="nav nav-second-level">
+                <li>
+                    <a href="@Url.Action("Create","Vipham")">Thêm mới</a>
+                </li>
+                <li>
+                    <a href="@Url.Action("Index","Vipham")">Thông tin </a>
+                </li>
+            </ul>
+            <!-- /.nav-second-level -->
+        </li>
+        <li>
+            <a href="forms.html"><i class="fa fa-edit fa-fw"></i> Forms</a>
+        </li>
+        <li>
+            <a href="#"><i class="fa fa-wrench fa-fw"></i> UI Elements<span class="fa arrow"></span></a>
+            <ul class="nav nav-second-level">
+                <li>
+                    <a href="panels-wells.html">Panels and Wells</a>
+                </li>
+                <li>
+                    <a href="buttons.html">Buttons</a>
+                </li>
+                <li>
+                    <a href="notifications.html">Notifications</a>
+                </li>
+                <li>
+                    <a href="typography.html">Typography</a>
+                </li>
+                <li>
+                    <a href="icons.html"> Icons</a>
+                </li>
+                <li>
+                    <a href="grid.html">Grid</a>
+                </li>
+            </ul>
+            <!-- /.nav-second-level -->
+        </li>
+        
+        <li>
+            <a href="#"><i class="fa fa-files-o fa-fw"></i> Sample Pages<span class="fa arrow"></span></a>
+            <ul class="nav nav-second-level">
+                <li>
+                    <a href="blank.html">Blank Page</a>
+                </li>
+                <li>
+                    <a href="login.html">Login Page</a>
+                </li>
+            </ul>
+            <!-- /.nav-second-level -->
+        </li>
+    </ul>
+</div>
